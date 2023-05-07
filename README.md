@@ -1,6 +1,10 @@
 # Libraries of wiring components for draw.io ([diagrams.net](https://www.diagrams.net/)) for the game Barotrauma
 Contains XML files (libraries) for the software draw.io to be able to create wiring schematics for the game [Barotrauma](https://store.steampowered.com/app/602960/Barotrauma/).
 
+## Download
+
+Link: [draw.io_barotrauma_libs.zip](https://github.com/Thoupler/wire-trauma/files/11416165/draw.io_barotrauma_libs.zip)
+
 ## How to use
 
 Basic Usage of draw.io: https://www.youtube.com/watch?v=Z0D96ZikMkc
