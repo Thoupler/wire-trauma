@@ -3,7 +3,7 @@ Contains XML files (libraries) for the software draw.io to be able to create wir
 
 ## Download
 
-Link: [draw.io_barotrauma_libs.zip](https://github.com/Thoupler/wire-trauma/files/11416165/draw.io_barotrauma_libs.zip)
+Link: [draw.io_barotrauma_libs.zip](https://github.com/Thoupler/wire-trauma/blob/main/draw.io_barotrauma_libs.zip)
 
 ## How to use
 
