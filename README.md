@@ -11,11 +11,11 @@ Basic Usage of draw.io: https://www.youtube.com/watch?v=Z0D96ZikMkc
 
 Importing libraries: https://www.drawio.com/blog/custom-libraries
 
+Exporting or importing projects: https://drawio-app.com/blog/draw-io-training-exercise-10-export-and-import/
+
 Line Jumping: https://drawio-app.com/blog/draw-io-now-supports-line-jumps/
 
 Connector styles: https://drawio-app.com/blog/connector-styles-and-animations-in-draw-io/
-
-Export projects to show others: https://www.youtube.com/watch?v=rN-IKnELke4
 
 ### An Example
 
