@@ -24,7 +24,7 @@ Connector styles: https://drawio-app.com/blog/connector-styles-and-animations-in
 * The S key adds a note where you can add notes or comments
 * The X key allows you to draw freehand lines. It can be toggled off by pressing the X key again (or the ESC key)
 
-### An Example
+## An Example
 
 ![Barotrauma v1 0 9 - Automatic Reactor v1 0](https://user-images.githubusercontent.com/3156901/236705900-75b2706c-eab5-4d56-8df7-982e81017b4f.png)
 
