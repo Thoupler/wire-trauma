@@ -1,0 +1,18 @@
+draw.io libs for Barotrauma - changelog
+
+v1.0.1
+
+- dark mode support added
+- changed colors of medical fabricator component so it suits better for dark mode
+- changed colors of light component/emergency light
+- changed the background of the info box for the variables to blue
+- set the color of the text inside the info box to black so it will not be changed when switching to dark mode
+- unlocked the background box (blue) for variables (e.g. color changes are now possible)
+- added the icon for the oscillator
+- adjusted a icon for the relay component
+- removed some hidden port which lay over exisiting ones
+- all ports change now the color depending on the mode (light/dark)
+
+v1.0.0
+
+- inital release
